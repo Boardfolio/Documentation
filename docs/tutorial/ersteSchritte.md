@@ -19,7 +19,7 @@ Auf dieser Seite habt ihr nun die möglichkeit den **Anzeigenamen** eurer Firma/
 ![ShopBeschreibung](img/ShopBeschreibung.png)
 :::tip Deinen Shop ansehen
 
-In der oberen Leiste kannst du stehts auf "Deinen Shop ansehen" klicken welcher dir das Frontend, also so wie es deine Kunden sehen werden, anzeigt. 
+In der oberen Leiste kannst du auf "Deinen Shop ansehen" klicken welcher dir das Frontend, also so wie es deine Kunden sehen werden, anzeigt. 
 
 :::
 ![ShopBeschreibungFront](img/ShopBeschreibungFront.png)
