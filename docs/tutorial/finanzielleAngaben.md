@@ -15,3 +15,8 @@ Dieser Schritt ist unbedingt Notwendig zu erfüllen bevor es dir möglich ist Pr
 
 ![StripeConnectImg](img/StripeConnect.png)
 
+:::tip Provisions Raten
+
+Auf dieser Seite kannst du ausserdem immer checken wie es mit der Provisionsrate aussieht#
+
+:::

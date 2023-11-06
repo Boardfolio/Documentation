@@ -76,6 +76,7 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
+       
         },
         items: [
           {
@@ -101,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/category/tutorial/',
               },
             ],
           },
