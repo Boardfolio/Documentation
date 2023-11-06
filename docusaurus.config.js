@@ -6,6 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  
   title: 'Boardfolio',
   tagline: 'Verkäufer Dokumentation',
   favicon: 'img/favicon.ico',
@@ -31,7 +32,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en','de'],
   },
 
   presets: [
@@ -63,11 +64,14 @@ const config = {
   ],
 
   themeConfig:
+
+  
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        
         title: 'Boardfolio',
         logo: {
           alt: 'My Site Logo',
@@ -75,7 +79,7 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
+            type: 'localeDropdown',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
@@ -88,6 +92,7 @@ const config = {
          // },
         ],
       },
+      
       footer: {
         style: 'dark',
         links: [
