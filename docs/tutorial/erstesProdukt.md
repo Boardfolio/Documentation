@@ -50,5 +50,5 @@ Ihr seid kein Kleinunternehmer, habt aber einen Umsatz der größer als 10.000 �
 
 **Ihr wählt "Standard" oder "Ermäßigt"**
 :::
-==2==
+
 Verweis auf Digitale Produkt downloads
