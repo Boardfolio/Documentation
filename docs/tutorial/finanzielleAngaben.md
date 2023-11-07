@@ -22,8 +22,6 @@ Auf dieser Seite könnt ihr ausserdem sehen wie es mit eurer derzeitige Provisio
 
 ![StripeConnectImg](img/StripeConnect.png)
 
-
-
 Habt ihr euch **erfolgreich verbunden** sollte es jetzt in eurem Backend angezeigt werden:
 
 ![StripeConnectedImg](img/StripeConnected.png)
