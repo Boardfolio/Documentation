@@ -43,7 +43,7 @@ Ihr seid Kleinunternehmer, sprich ihr habt einen Jahresumsatz der kleiner als 22
 :::note Möglichkeit 2
 Ihr seid **Keine** Kleinunternehmer aber euer **gesammter Jahresumsatz im EU-Ausland** liegt unterhalb von 10.000 €: 
 
-**Ihr wählt eine der "<10k" Optionen**
+Ihr wählt eine der "<10k" Optionen
 :::
 :::note Möglichkeit 3
 Ihr seid kein Kleinunternehmer, habt aber einen Umsatz der größer als 10.000 € im EU-Ausland ist: 
