@@ -2,7 +2,7 @@
 sidebar_label: 'Erste Schritte'
 sidebar_position: 1
 ---
-# Auf ins Backend!
+# Erschaffen wir euren Shop!
 
 
 Nachdem ihr euch erfolgreich angemeldet habt und von dem Boardfolio Team freigeschalten wurdet, könnt ihr euch [**hier**](https://boardfolio.gg/admin/?target=login) in euer persönliches [**Backend**](https://boardfolio.gg/admin/?target=login) des Boardfolio Shops einloggen.
@@ -17,6 +17,7 @@ Auf dieser Seite habt ihr nun die möglichkeit den **Anzeigenamen** eurer Firma/
 **Ihr wollt euren Fans noch mehr über euch erzählen?** Super dann nutzt die Gelegenheit der Kurzbeschreibung. In diesem HTML editor könnt ihr anhand von Bild und Text eure Fans in eurem Shop begrüßen, Einblicke in eure Arbeit geben, oder euch selbst vorstellen. 
 
 ![ShopBeschreibung](img/ShopBeschreibung.png)
+
 :::tip Deinen Shop ansehen
 
 In der oberen Leiste kannst du auf "Deinen Shop ansehen" klicken welcher dir das Frontend, also so wie es deine Kunden sehen werden, anzeigt. 
