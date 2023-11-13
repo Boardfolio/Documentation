@@ -67,7 +67,8 @@ Solltet ihr für ein Produkt spezifische Versandkosten wollen (bspw. weil es seh
 
 ![Produkt_05](img/Produkt_05.png)
 :::info Digitale Produkte
-Habt ihr ein digitales Produkt wie z.B. eine PDF oder ein 3D Modell, dann deaktiviert den Slider "Benötigt Versand".
+Habt ihr ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) wie z.B. eine PDF oder ein 3D Modell, dann deaktiviert den Slider "Benötigt Versand".
+Mehr dazu wie man ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) anlegt findet ihr [hier](/documentation/Produkte/produktErweitern/#Digitale)
 :::
 
 Glückwunsch ihr habt euer erstes Produkt erfolgreich angelegt! 
