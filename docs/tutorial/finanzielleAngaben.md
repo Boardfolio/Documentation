@@ -26,4 +26,20 @@ Habt ihr euch **erfolgreich verbunden** sollte es jetzt in eurem Backend angezei
 
 ![StripeConnectedImg](img/StripeConnected.png)
 
+# Versandinformationen 
+Ausserdem müsst ihr noch eure Versandinformationen berichtigen, übernehmen, oder ändern. Die Versandinformationen können Kunden sehen wenn sie auf einer Produktseite sind und den Reiter Versand auswählen.
+![VersandInfo_02](img/VersandInfo_02.png)
+Den Sichtbaren Text könnt ihr im Menü unter dem Punkt **"Design"-"Produktseiten Tabs"** bearbeiten.
+Dort klickt ihr auf **"Versand"**. Nun seht ihr ein HTML Editor in welchem ihr eure Versand informationen euren Bedürfnissen anpassen könnt. 
+
+Ihr könntet zum Beispiel verschiedene pauschalen für verschiedene Sendungsgrößen beschreiben:
+- [x] Bücher & Warensendung: 2,75€
+- [x] Pakete: 5,95€
+
+Oder einfach den bestehenden Text anpassen.
+
+# Impressum 
+Euer Impressum müsst ihr ebenfalls unter dem Punkt **"Design"-"Produktseiten Tabs"** ändern. Dort tauscht ihr dann den Text durch euer eigenes Impressum aus. 
+
+
 **Glückwunsch!** Ihr seid nun bereit euer [**erstes Produkt**](/documentation/tutorial/erstesProdukt) einzustellen!

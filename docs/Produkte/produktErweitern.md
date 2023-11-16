@@ -34,3 +34,13 @@ Ist der Regler **nicht** auf "Kostenpflichtig" sonder auf "Kostenlos" **kann jed
 
 Wenn ihr den Regler auf "Free" stellt könnt ihr Vorabinformationen, welche man sich ohne Kauf des Produktes ansehen kann, bereitstellen (bspw. eine Leseprobe).
 
+# Großhandelspreise
+
+Solltet ihr eure Produkte an Händler Verkaufen wollen so könnt ihr für diese Kundengruppe gesonderte Preise anlegen. Diese sind in der Regel 30-40% günstiger. Wie viel ihr eure Preise reduziert ist natürlich euch überlassen. 
+
+Im Tab "Großhandelspreise" könnt ihr eine Neue Stufe für euer Produkt erstellen. 
+
+![Wholesale](img/Wholesaler.png)
+
+Das erste was ihr nun tun müsst ist das Membership auf Wholesaler umzustellen! Dann tragt ihr die Menge und den entsprechenden reduzierten Preis ein. Für ein Produkt könnt ihr mehrere Stufen anlegen (wie im Bild zu sehen). So ist es möglich, dass ihr auch einen Mengenrabatt geben könnt sobald ein Händler beispielsweise 5 Stück auf einmal kauft.
+
