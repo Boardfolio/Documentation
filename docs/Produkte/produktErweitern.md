@@ -9,6 +9,29 @@ Ihr habt bereits ein oder mehrere Produkte angelegt. Nun habt ihr die Möglichke
 
 Um alle diese Dinge einstellen zu können geht ihr auf eure Produkte und klickt auf eins euerer bereits bestehenden Produkte und gelangt so zur entsprechenden Produktseite. Der Unterschied zu der normalen Produktseite ist dass ihr diesmal noch weitere Reiter oben seht. 
 
+# Produkt Varianten (Verschiedene Sprachen)
+Ihr habt ein Produkt in mehreren Sprachen oder Varianten verfügbar? Kein Problem ihr könnt Kunden auf der Produktseite ermöglichen sich die Sprache des Produktes auszusuchen. Für welche Version der Kunde sich dann entschieden hat seht ihr natürlich im erstellten Auftrag dann! 
+
+
+
+**Teil 1**
+
+Um dies einzurichten geht ihr auf den Reiter "Attribute" und navigiert dort in den Reiter "Global". Bei dem Attribut "Wähle deine Sprache" wählt ihr eure primäre Sprache per Dropdownbox aus und setzt ausserdem einen Haken bei "multi value". 
+![Language01](img/Language_01.png)
+Nun erscheint eine weitere Dropdownbox in welcher ihr eine andere Sprache auswählen könnt. Speichert nun eure Änderungen. 
+
+**Teil 2** 
+
+Geht jetzt auf den Reiter "Varianten". 
+![Language02](img/Language_02.png)
+Hier setzt ihr einen Haken bei den soeben erstellten Attributen und klickt auf "Create all possible Variants". 
+
+![Language03](img/Language_03.png)
+Die vor euch erschienene Liste lässt euch die einzelnen Produktvarianten bearbeiten. So könnt ihr verschiedene Produktthumbnails den Sprachen zuordnen welche den Kunden je nach ausgewählter Sprache angezeigt wird.  
+
+:::info
+Wenn ihr den Kunden lediglich die auswahl zwischen verschiedenen Sprachen geben wollt dann könnt irh bereits nach Teil 1 aufhören.
+:::
 # Ähnliche Produkte
 
 :::info 
