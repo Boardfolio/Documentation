@@ -5,70 +5,80 @@ sidebar_position: 3
 
 # Das erste Produkt Anlegen
 
-Rann an den Speck! Euer erstes Produkt ist nun bereit angelegt zu werden! Dafür Navigieren wir zum Produktkatalog.
+Ran an den Speck! Dein erstes Produkt ist nun bereit, angelegt zu werden! Dafür navigieren wir zum Produktkatalog.
 
 ![Produkt_01](img/ProduktAnlegen_01.png)
 
-Nun seid ihr im Produkt Katalog gelandet, wo alle eure angelegten Produkte aufgelisted werden. Um ein neues Produkt anzulegen klicken wir auf **"Neues Produkt"**.
-Auf dieser Seite müssen wir alle Stammdaten sowie zusätzliche Informationen zu dem Produkt angeben. 
-# Basis Daten
+Nun bist du im Produktkatalog gelandet, wo alle deine angelegten Produkte aufgelistet werden. Um ein neues Produkt anzulegen, klickst du auf **"Neues Produkt"**.
+Auf dieser Seite musst du alle Stammdaten sowie zusätzliche Informationen zu dem Produkt angeben.
+
+## Basis Daten
 ![Produkt_02](img/Produkt_02.png)
 
-- Der **Produktname** ist der finale Anzeigename eures Produktes im Frontend. Stellt sicher, dass dieser innerhalb eures Produktkataloges **einmalig** ist
-- Solltet ihr mit euren eigenen **Artikelnummern** arbeiten könnte ihr diese ebenfall hier eintragen
-- Ihr könnt beliebig viele **Bilder** zu eurem Produkt hochladen (mind. 1). Das erste Bild wird als Thumbnail eures Produktes genutzt (Die Reihenfolge kann per Drag'n'Drop geändert werden)
-- In **Kategorie** sucht ihr aus den bestehenden eine passende für euer Produkt heraus
-# Produkt Beschreibung
+- Der **Produktname** ist der finale Anzeigename deines Produktes im Frontend. Stelle sicher, dass dieser innerhalb deines Produktkatalogs **einmalig** ist.
+- Solltest du mit eigenen **Artikelnummern** arbeiten, kannst du diese ebenfalls hier eintragen.
+- Du kannst beliebig viele **Bilder** zu deinem Produkt hochladen (mind. 1). Das erste Bild wird als Thumbnail deines Produktes genutzt (Die Reihenfolge kann per Drag'n'Drop geändert werden).
+- In der **Kategorie** wählst du aus den bestehenden eine passende für dein Produkt aus.
+
+## Produkt Beschreibung
 ![Produkt_03](img/Produkt_03.png)
 
-Während ihr in der Kurzbeschreibung nur die wichtigsten Fakten angeben braucht, könnt ihr euch in der Beschreibung regelrecht austoben. Die Beschreibung welche auf der Produktseite unterhalb des Produktes angezeigt wird bietet platz für detailreiche informationen zu eurem Produkt.
-# Preis und Steuern
+Während du in der Kurzbeschreibung nur die wichtigsten Fakten angeben musst, kannst du dich in der Beschreibung regelrecht austoben. Die Beschreibung, die auf der Produktseite unterhalb des Produktes angezeigt wird, bietet Platz für detailreiche Informationen zu deinem Produkt.
+
+## Preis und Steuern
 ![Produkt_04](img/Produkt_04.png)
 
-Das Wichtigste, wenn ihr ein Produkt verkaufen möchtet, sind eure Steuerklasse und der Produktpreis. Hier tragt ihr euren Nettopreis **(Preis ohne Steuern)** ein. Wenn ihr die Sale-Funktion verwendet, könnt ihr außerdem einen reduzierten Preis eingeben, den euer Produkt während des Sales annimmt.
+Das Wichtigste, wenn du ein Produkt verkaufen möchtest, sind deine Steuerklasse und der Produktpreis. Hier trägst du deinen Nettopreis **(Preis ohne Steuern)** ein. Wenn du die Sale-Funktion verwendest, kannst du außerdem einen reduzierten Preis eingeben, den dein Produkt während des Sales annimmt.
 
-Für die richtige Steuer müsst ihr aus der Dropdownbox die zu **euch und dem Produkt passende** option aussuchen:
+Für die richtige Steuer musst du aus der Dropdown-Box die zu **dir und dem Produkt passende** Option auswählen:
 
 :::danger STEUERKLASSE
 
-Das Thema mag viele abschrecken aber es ist dennoch wichtig. Keine Sorge, wir machen es euch so einfach wie möglich!
-Es gibt genau **3** Auswahlmöglichkeiten für euch: 
+Das Thema mag viele abschrecken, aber es ist dennoch wichtig. Keine Sorge, wir machen es dir so einfach wie möglich!
+Es gibt genau **3** Auswahlmöglichkeiten für dich:
 
 :::
 
 :::note Möglichkeit 1
-Ihr seid Kleinunternehmer, sprich ihr habt einen Jahresumsatz der kleiner als 22.000 € ist (Ihr müsst keine Mehrwertsteuer bezahlen):
+Du bist Kleinunternehmer, sprich du hast einen Jahresumsatz, der kleiner als 22.000 € ist (Du musst keine Mehrwertsteuer bezahlen):
 
-**Ihr wählt "Kleinunternehmer"**
+**Du wählst "Kleinunternehmer".**
 :::
 :::note Möglichkeit 2
-Ihr seid **Keine** Kleinunternehmer aber euer **gesammter Jahresumsatz im EU-Ausland** liegt unterhalb von 10.000 €: 
+Du bist **kein** Kleinunternehmer, aber dein **gesamter Jahresumsatz im EU-Ausland** liegt unterhalb von 10.000 €:
 
-**Ihr wählt eine der "kleiner als 10k" Optionen** 
+**Du wählst eine der "kleiner als 10k" Optionen.**
 :::
 :::note Möglichkeit 3
-Ihr seid kein Kleinunternehmer, habt aber einen Umsatz der größer als 10.000 € im EU-Ausland ist: 
+Du bist kein Kleinunternehmer, hast aber einen Umsatz, der größer als 10.000 € im EU-Ausland ist:
 
-**Ihr wählt "Standard" oder "Ermäßigt"**
+**Du wählst "Standard" oder "Ermäßigt".**
 :::
 
-Ob ihr nun den normalen oder ermäßigten Steuersatz nehmen sollt hängt von eurem Produkt ab. In Deutschland ist es so, dass nur Bücher den ermäßigten Steuersatz geniessen während alle[^1] anderen Produkte den normalen verrechnet bekommen.
+Ob du nun den normalen oder ermäßigten Steuersatz nehmen sollst, hängt von deinem Produkt ab. In Deutschland ist es so, dass nur Bücher den ermäßigten Steuersatz genießen, während alle[^1] anderen Produkte den normalen verrechnet bekommen.
 
+[^1]: Produkte, die normalerweise in den Hobbybereich fallen.
 
-[^1]: Produkte welche normalerweise in den Hobbybereich fallen.
+## Versand
 
-# Versand
-
-In der Sektion Versand **aktiviert ihr den Slider "Benötigt Versand"** damit der Shop automatisch die Versandkosten zu eurem Produkt hinzufügt. Dafür wird die Versandpauschale genutzt welche ihr für das jeweilige herkunftsland des Käufers eingerichtet habt. (Mehr dazu in der Sektion [Versand](/documentation/tutorial/erstesProdukt#Versand)). **Lasst also im Normalfall die Versandkosten auf 0.00€**.
+In der Sektion Versand **aktivierst du den Slider "Benötigt Versand"**, damit der Shop automatisch die Versandkosten zu deinem Produkt hinzufügt. Dafür wird die Versandpauschale genutzt, die du für das jeweilige Herkunftsland des Käufers eingerichtet hast (Mehr dazu in der Sektion [Versand](/documentation/tutorial/erstesProdukt#Versand)). **Lass also im Normalfall die Versandkosten auf 0,00 €.**
 
 :::info Feste Versandkosten
-Solltet ihr für ein Produkt spezifische Versandkosten wollen (bspw. weil es sehr groß oder sehr klein ist) so könnt ihr hier eure individuellen Versandkosten eintragen. Diese überschreiben dann die Versandpauschale.
+Solltest du für ein Produkt spezifische Versandkosten wollen (bspw. weil es sehr groß oder sehr klein ist), kannst du hier deine individuellen Versandkosten eintragen. Diese überschreiben dann die Versandpauschale.
 :::
 
 ![Produkt_05](img/Produkt_05.png)
+
 :::info Digitale Produkte
-Habt ihr ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) wie z.B. eine PDF oder ein 3D Modell, dann deaktiviert den Slider "Benötigt Versand".
-Mehr dazu wie man ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) anlegt findet ihr [hier](/documentation/Produkte/produktErweitern/#Digitale)
+Hast du ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) wie z.B. eine PDF oder ein 3D-Modell, dann deaktiviere den Slider "Benötigt Versand".
+Mehr dazu, wie man ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) anlegt, findest du [hier](/documentation/Produkte/produktErweitern/#Digitale).
 :::
 
-Glückwunsch ihr habt euer erstes Produkt erfolgreich angelegt! 
+## Produkt Attribute
+Als Letztes müssen wir dem Produkt Attribute zuweisen, sodass Kunden dein Produkt mithilfe der Filter finden können. Nachdem du dein Produkt fertiggestellt hast, rufst du es über deine Produktliste erneut auf. Nun siehst du weitere oben weitere Tabs, die erschienen sind.
+
+Um Attribute hinzuzufügen, gehst du auf den Reiter "Attribute" und navigierst dort in den Reiter "Global". Bei dem Attribut "Sprache" wählst du eine Sprache per Dropdown-Box aus und setzt außerdem einen Haken bei "multi value".
+![Language01](img/Language_01.png)
+Nun erscheint eine weitere Dropdown-Box, in der du eine andere Sprache auswählen kannst. Speichere deine Änderungen.
+
+Glückwunsch, du hast dein erstes Produkt erfolgreich angelegt!

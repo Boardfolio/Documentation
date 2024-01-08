@@ -5,14 +5,16 @@ slug: /
 
 # Boardfolio Dokumentation
 ![test](tutorial/img/Happy.png)
+
 # Der Anfang
 
-Willkommen in der Boardfolio Dokumentation. Dies ist der Ort wo wir für euch das gesammelte Wissen zur Bedienung unserer Plattform bereitstellen. **Solltest du das erste Mal auf unserer Plafftorm sein, dann fang am Besten direkt bei unserem** [**Tutorial**](/documentation/category/tutorial) **an.**
-
+Willkommen in der Boardfolio Dokumentation. Dies ist der Ort, an dem wir das gesammelte Wissen zur Bedienung unserer Plattform für dich bereitstellen. **Falls du zum ersten Mal auf unserer Plattform bist, fang am besten direkt mit unserem** [**Tutorial**](/documentation/category/tutorial) **an.**
 
 # Discord Server
-Trete unserem Discord Server bei um persönliche Unterstützung zu erhalten, die neusten Updates zu erfahren und dich mit deinen Mit-Kreativen zu Verknüpfen!
+Trete unserem Discord-Server bei, um persönliche Unterstützung zu erhalten, die neuesten Updates zu erfahren und dich mit anderen Kreativen zu vernetzen!
 
 ![discord](tutorial/img/DiscordLogo.png)
 
-[Link zu unserem Discord Server](https://discord.gg/D7hbPJXCtN)
+[Link zu unserem Discord-Server](https://discord.gg/D7hbPJXCtN)
+
+
