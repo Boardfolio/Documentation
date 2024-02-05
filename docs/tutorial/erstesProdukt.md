@@ -75,10 +75,12 @@ Mehr dazu, wie man ein [**digitales Produkt**](/documentation/Produkte/produktEr
 :::
 
 ## Produkt Attribute
-Als Letztes müssen wir dem Produkt Attribute zuweisen, sodass Kunden dein Produkt mithilfe der Filter finden können. Nachdem du dein Produkt fertiggestellt hast, rufst du es über deine Produktliste erneut auf. Nun siehst du weitere oben weitere Tabs, die erschienen sind.
+Als Letztes müssen wir dem Produkt Attribute zuweisen, sodass Kunden dein Produkt mithilfe der Filter und Suchfunktion finden können. Nachdem du dein Produkt fertiggestellt hast, rufst du es über deine Produktliste erneut auf. Nun siehst du weitere oben weitere Tabs, die erschienen sind.
 
 Um Attribute hinzuzufügen, gehst du auf den Reiter "Attribute" und navigierst dort in den Reiter "Global". Bei dem Attribut "Sprache" wählst du eine Sprache per Dropdown-Box aus und setzt außerdem einen Haken bei "multi value".
 ![Language01](img/Language_01.png)
 Nun erscheint eine weitere Dropdown-Box, in der du eine andere Sprache auswählen kannst. Speichere deine Änderungen.
+
+Nutze diese Seite um alle Produktdetails anzugeben wie: Sprache, Spieleranzahl und Genre.
 
 Glückwunsch, du hast dein erstes Produkt erfolgreich angelegt!
