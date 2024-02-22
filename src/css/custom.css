@@ -36,3 +36,11 @@ main, span{
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+img{
+  border: solid 4px;
+  border-radius: 10px;
+  border-color: rgb(78, 82, 80);
+}
+#__docusaurus_skipToContent_fallback > div > main > div > div > div > div > article > div > p:nth-child(2) > img, #__docusaurus_skipToContent_fallback > div > main > div > div > div > div > article > div > p:nth-child(7) > img
+{border: none;}

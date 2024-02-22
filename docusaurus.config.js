@@ -35,11 +35,14 @@ const config = {
     locales: ['en','de'],
   },
 
+  
   presets: [
     [
+      
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
@@ -57,7 +60,7 @@ const config = {
        //    'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
        //},
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: ['./src/css/custom.css'],
         },
       }),
     ],
@@ -144,6 +147,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    
 };
 
 module.exports = config;
