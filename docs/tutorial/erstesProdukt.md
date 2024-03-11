@@ -1,86 +1,86 @@
 ---
-sidebar_label: 'Das erste Produkt'
+sidebar_label: 'Creating Your First Product'
 sidebar_position: 3
 ---
 
-# Das erste Produkt Anlegen
+# Creating Your First Product
 
-Ran an den Speck! Dein erstes Produkt ist nun bereit, angelegt zu werden! Dafür navigieren wir zum Produktkatalog.
+Let's get started! Your first product is ready to be created! To do this, we navigate to the product catalog.
 
-![Produkt_01](img/ProduktAnlegen_01.png)
+![Product_01](img/ProduktAnlegen_01.png)
 
-Nun bist du im Produktkatalog gelandet, wo alle deine angelegten Produkte aufgelistet werden. Um ein neues Produkt anzulegen, klickst du auf **"Neues Produkt"**.
-Auf dieser Seite musst du alle Stammdaten sowie zusätzliche Informationen zu dem Produkt angeben.
+Now you're in the product catalog, where all your created products are listed. To create a new product, click on **"New Product"**.
+On this page, you need to provide all master data as well as additional information about the product.
 
-## Basis Daten
-![Produkt_02](img/Produkt_02.png)
+## Basic Data
+![Product_02](img/Produkt_02.png)
 
-- Der **Produktname** ist der finale Anzeigename deines Produktes im Frontend. Stelle sicher, dass dieser innerhalb deines Produktkatalogs **einmalig** ist.
-- Solltest du mit eigenen **Artikelnummern** arbeiten, kannst du diese ebenfalls hier eintragen.
-- Du kannst beliebig viele **Bilder** zu deinem Produkt hochladen (mind. 1). Das erste Bild wird als Thumbnail deines Produktes genutzt (Die Reihenfolge kann per Drag'n'Drop geändert werden).
-- In der **Kategorie** wählst du aus den bestehenden eine passende für dein Produkt aus.
+- The **Product Name** is the final display name of your product on the frontend. Make sure it is **unique** within your product catalog.
+- If you work with your own **article numbers**, you can also enter them here.
+- You can upload as many **images** of your product as you like (at least 1). The first image will be used as the thumbnail of your product (the order can be changed via drag and drop).
+- In the **Category**, you select a suitable one for your product from the existing categories.
 
-## Produkt Beschreibung
-![Produkt_03](img/Produkt_03.png)
+## Product Description
+![Product_03](img/Produkt_03.png)
 
-Während du in der Kurzbeschreibung nur die wichtigsten Fakten angeben musst, kannst du dich in der Beschreibung regelrecht austoben. Die Beschreibung, die auf der Produktseite unterhalb des Produktes angezeigt wird, bietet Platz für detailreiche Informationen zu deinem Produkt.
+While you only need to provide the most important facts in the short description, you can really let loose in the description. The description displayed on the product page below the product offers space for detailed information about your product.
 
-## Preis und Steuern
-![Produkt_04](img/Produkt_04.png)
+## Price and Taxes
+![Product_04](img/Produkt_04.png)
 
-Das Wichtigste, wenn du ein Produkt verkaufen möchtest, sind deine Steuerklasse und der Produktpreis. Hier trägst du deinen Nettopreis **(Preis ohne Steuern)** ein. Wenn du die Sale-Funktion verwendest, kannst du außerdem einen reduzierten Preis eingeben, den dein Produkt während des Sales annimmt.
+The most important thing if you want to sell a product is your tax class and the product price. Here you enter your net price **(price without taxes)**. If you use the sale function, you can also enter a reduced price that your product will assume during the sale.
 
-Für die richtige Steuer musst du aus der Dropdown-Box die zu **dir und dem Produkt passende** Option auswählen:
+To ensure the correct tax, you must select the option that is **appropriate for you and the product** from the dropdown box:
 
-:::danger STEUERKLASSE
+:::danger TAX CLASS
 
-Das Thema mag viele abschrecken, aber es ist dennoch wichtig. Keine Sorge, wir machen es dir so einfach wie möglich!
-Es gibt genau **3** Auswahlmöglichkeiten für dich:
+The topic may scare many, but it's still important. Don't worry, we'll make it as easy as possible for you!
+There are exactly **3** options for you:
 
 :::
 
-:::note Möglichkeit 1
-Du bist Kleinunternehmer, sprich du hast einen Jahresumsatz, der kleiner als 22.000 € ist (Du musst keine Mehrwertsteuer bezahlen):
+:::note Option 1
+You are a small business owner, meaning you have an annual turnover of less than €22,000 (You don't have to pay value-added tax):
 
-**Du wählst "Kleinunternehmer".**
+**You select "Small Business Owner".**
 :::
-:::note Möglichkeit 2
-Du bist **kein** Kleinunternehmer, aber dein **gesamter Jahresumsatz im EU-Ausland** liegt unterhalb von 10.000 €:
+:::note Option 2
+You are **not** a small business owner, but your **total annual turnover in the EU** is below €10,000:
 
-**Du wählst eine der "kleiner als 10k" Optionen.**
+**You select one of the "less than 10k" options.**
 :::
-:::note Möglichkeit 3
-Du bist kein Kleinunternehmer, hast aber einen Umsatz, der größer als 10.000 € im EU-Ausland ist:
+:::note Option 3
+You are not a small business owner, but you have a turnover that exceeds €10,000 in the EU:
 
-**Du wählst "Standard" oder "Ermäßigt".**
-:::
-
-Ob du nun den normalen oder ermäßigten Steuersatz nehmen sollst, hängt von deinem Produkt ab. In Deutschland ist es so, dass nur Bücher den ermäßigten Steuersatz genießen, während alle[^1] anderen Produkte den normalen verrechnet bekommen.
-
-[^1]: Produkte, die normalerweise in den Hobbybereich fallen.
-
-## Versand
-
-In der Sektion Versand **aktivierst du den Slider "Benötigt Versand"**, damit der Shop automatisch die Versandkosten zu deinem Produkt hinzufügt. Dafür wird die Versandpauschale genutzt, die du für das jeweilige Herkunftsland des Käufers eingerichtet hast (Mehr dazu in der Sektion [Versand](/documentation/tutorial/erstesProdukt#Versand)). **Lass also im Normalfall die Versandkosten auf 0,00 €.**
-
-:::info Feste Versandkosten
-Solltest du für ein Produkt spezifische Versandkosten wollen (bspw. weil es sehr groß oder sehr klein ist), kannst du hier deine individuellen Versandkosten eintragen. Diese überschreiben dann die Versandpauschale.
+**You select "Standard" or "Reduced".**
 :::
 
-![Produkt_05](img/Produkt_05.png)
+Whether you should use the standard or reduced tax rate depends on your product. In Germany, for example, only books enjoy the reduced tax rate, while all[^1] other products are charged the standard rate.
 
-:::info Digitale Produkte
-Hast du ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) wie z.B. eine PDF oder ein 3D-Modell, dann deaktiviere den Slider "Benötigt Versand".
-Mehr dazu, wie man ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) anlegt, findest du [hier](/documentation/Produkte/produktErweitern/#Digitale).
+[^1]: Products that typically fall into the hobby category.
+
+## Shipping
+
+In the Shipping section, **activate the "Requires Shipping" slider** so that the shop automatically adds the shipping costs to your product. The flat rate you set up for the buyer's country of origin will be used for this purpose (More on this in the [Shipping](/documentation/tutorial/firstProduct#Shipping) section). **So leave the shipping costs at 0.00 € in normal cases.**
+
+:::info Fixed Shipping Costs
+If you want specific shipping costs for a product (e.g., because it is very large or very small), you can enter your individual shipping costs here. These will then override the flat rate.
 :::
 
-## Produkt Attribute
-Als Letztes müssen wir dem Produkt Attribute zuweisen, sodass Kunden dein Produkt mithilfe der Filter und Suchfunktion finden können. Nachdem du dein Produkt fertiggestellt hast, rufst du es über deine Produktliste erneut auf. Nun siehst du weitere oben weitere Tabs, die erschienen sind.
+![Product_05](img/Produkt_05.png)
 
-Um Attribute hinzuzufügen, gehst du auf den Reiter "Attribute" und navigierst dort in den Reiter "Global". Bei dem Attribut "Sprache" wählst du eine Sprache per Dropdown-Box aus und setzt außerdem einen Haken bei "multi value".
+:::info Digital Products
+If you have a [**digital product**](/documentation/Products/expandingProduct/#Digital) such as a PDF or a 3D model, then deactivate the "Requires Shipping" slider.
+More on how to create a [**digital product**](/documentation/Products/expandingProduct/#Digital) can be found [here](/documentation/Products/expandingProduct/#Digital).
+:::
+
+## Product Attributes
+Finally, we need to assign attributes to the product so that customers can find your product using filters and search functionality. After completing your product, call it up again via your product list. Now you'll see additional tabs at the top.
+
+To add attributes, go to the "Attributes" tab and navigate to the "Global" tab. For the "Language" attribute, select a language from the dropdown box and also check the "multi value" box.
 ![Language01](img/Language_01.png)
-Nun erscheint eine weitere Dropdown-Box, in der du eine andere Sprache auswählen kannst. Speichere deine Änderungen.
+Now another dropdown box will appear where you can select a different language. Save your changes.
 
-Nutze diese Seite um alle Produktdetails anzugeben wie: Sprache, Spieleranzahl und Genre.
+Use this page to specify all product details such as language, number of players, and genre.
 
-Glückwunsch, du hast dein erstes Produkt erfolgreich angelegt!
+Congratulations, you have successfully created your first product!

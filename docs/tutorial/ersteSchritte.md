@@ -1,27 +1,26 @@
 ---
-sidebar_label: 'Erste Schritte'
+sidebar_label: 'First Steps'
 sidebar_position: 1
 ---
-# Erschaffen wir deinen Shop!
+# Let's Create Your Shop!
 
-Nachdem du dich erfolgreich angemeldet hast und vom Boardfolio-Team freigeschaltet wurdest, kannst du dich [**hier**](https://boardfolio.gg/admin/?target=login) in dein persönliches [**Backend**](https://boardfolio.gg/admin/?target=login) des Boardfolio Shops einloggen.
+After successfully registering and being activated by the Boardfolio team, you can log in to your personal backend of the Boardfolio shop [**here**](https://boardfolio.gg/admin/?target=login).
 
-Herzlichen Glückwunsch! Du bist nun in deinem eigenen Backend gelandet. Um genauer zu sein, ist die Startseite, die du vor dir siehst, dein [**Dashboard**](/documentation/Backend/dashboard). Hier werden wichtige Informationen angezeigt, wie zum Beispiel offene Bestellungen, Umsätze oder Nachrichten (mehr zum Dashboard findest du [hier](/documentation/Backend/dashboard)). Auf der linken Seite siehst du eine Menüleiste, über die du zu den verschiedensten Unterpunkten gelangen kannst. Um die Einrichtung deines Shops abzuschließen, navigieren wir als erstes zum obersten Punkt "Accountdetails".
+Congratulations! You have now landed in your own backend. To be more precise, the homepage you see in front of you is your [**dashboard**](/documentation/Backend/dashboard). Here, important information such as open orders, revenue, or messages are displayed (you can find more about the dashboard [here](/documentation/Backend/dashboard)). On the left side, you see a menu bar that allows you to navigate to various sub-items. To complete the setup of your shop, let's first navigate to the top item "Account Details".
 
-![NavigationsLeiste](img/NavigationsLeisteFirmendetails.png)
+![Navigation bar](img/NavigationsLeisteFirmendetails.png)
 
-Auf dieser Seite hast du nun die Möglichkeit, den **Anzeigenamen** deiner Firma/Studios sowie ein **Logo** festzulegen. Wenn du zudem den ungefähren Sitz deines Studios verraten möchtest, kannst du das im Feld "Location" angeben.
+On this page, you now have the opportunity to set the **display name** of your company/studio as well as a **logo**. If you also want to reveal the approximate location of your studio, you can specify it in the "Location" field.
 
-**Möchtest du deinen Fans noch mehr über dich erzählen?** Super, dann nutze die Gelegenheit der Kurzbeschreibung. In diesem HTML-Editor kannst du anhand von Bildern und Text deine Fans in deinem Shop begrüßen, Einblicke in deine Arbeit geben oder dich selbst vorstellen.
+**Would you like to tell your fans more about yourself?** Great, then take the opportunity of the short description. In this HTML editor, you can greet your fans in your shop with images and text, give insights into your work, or introduce yourself.
 
-![ShopBeschreibung](img/ShopBeschreibung.png)
+![Shop description](img/ShopBeschreibung.png)
 
-:::tip Deinen Shop ansehen
+:::tip View your shop
 
-In der oberen Leiste kannst du auf "Deinen Shop ansehen" klicken, um das Frontend, also so wie es deine Kunden sehen werden, anzuzeigen.
+In the top bar, you can click on "View Your Shop" to see the frontend, i.e., how your customers will see it.
 
 :::
 
-![ShopBeschreibungFront](img/ShopBeschreibungFront.png)
-
+![Shop description front](img/ShopBeschreibungFront.png)
 

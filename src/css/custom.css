@@ -42,5 +42,5 @@ img {
   border-radius: 10px;
   border-color: rgb(78, 82, 80);
 }
-#__docusaurus_skipToContent_fallback > div > main > div > div > div > div > article > div > p:nth-child(2) > img
+#__docusaurus_skipToContent_fallback > div > main > div > div > div > div > article > div > p:nth-child(2) > img, #__docusaurus > nav > div.navbar__inner > div:nth-child(1) > a > div > img
 {border: none;}
