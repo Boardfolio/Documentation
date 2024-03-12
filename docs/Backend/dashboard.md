@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'Das Dashboard'
+sidebar_label: 'The Dashboard'
 sidebar_position: 4
 ---
 
-# Das Dashboard
+## The Dashboard
 
-Hier findest du die wichtigsten Information auf einen Blick. 
+Here you will find everything about the Dashboard!

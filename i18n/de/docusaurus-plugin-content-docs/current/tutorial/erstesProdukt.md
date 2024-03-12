@@ -61,7 +61,7 @@ Ob du nun den normalen oder ermäßigten Steuersatz nehmen sollst, hängt von de
 
 ## Versand
 
-In der Sektion Versand **aktivierst du den Slider "Benötigt Versand"**, damit der Shop automatisch die Versandkosten zu deinem Produkt hinzufügt. Dafür wird die Versandpauschale genutzt, die du für das jeweilige Herkunftsland des Käufers eingerichtet hast (Mehr dazu in der Sektion [Versand](/documentation/tutorial/erstesProdukt#Versand)). **Lass also im Normalfall die Versandkosten auf 0,00 €.**
+In der Sektion Versand **aktivierst du den Slider "Benötigt Versand"**, damit der Shop automatisch die Versandkosten zu deinem Produkt hinzufügt. Dafür wird die Versandpauschale genutzt, die du für das jeweilige Herkunftsland des Käufers eingerichtet hast (Mehr dazu in der Sektion [**Versandtarife**](/documentation/de/tutorial/finanzielleAngaben#versandtarife)). **Lass also im Normalfall die Versandkosten auf 0,00 €.**
 
 :::info Feste Versandkosten
 Solltest du für ein Produkt spezifische Versandkosten wollen (bspw. weil es sehr groß oder sehr klein ist), kannst du hier deine individuellen Versandkosten eintragen. Diese überschreiben dann die Versandpauschale.
@@ -70,8 +70,8 @@ Solltest du für ein Produkt spezifische Versandkosten wollen (bspw. weil es seh
 ![Produkt_05](img/Produkt_05.png)
 
 :::info Digitale Produkte
-Hast du ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) wie z.B. eine PDF oder ein 3D-Modell, dann deaktiviere den Slider "Benötigt Versand".
-Mehr dazu, wie man ein [**digitales Produkt**](/documentation/Produkte/produktErweitern/#Digitale) anlegt, findest du [hier](/documentation/Produkte/produktErweitern/#Digitale).
+Hast du ein [**digitales Produkt**](/documentation/de/Produkte/produktErweitern/#digitale-produkte-und-anhänge) wie z.B. eine PDF oder ein 3D-Modell, dann deaktiviere den Slider "Benötigt Versand".
+Mehr dazu, wie man ein [**digitales Produkt**](/documentation/de/Produkte/produktErweitern/#digitale-produkte-und-anhänge) anlegt, findest du [hier](/documentation/de/Produkte/produktErweitern/#digitale-produkte-und-anhänge).
 :::
 
 ## Produkt Attribute

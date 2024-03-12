@@ -3,7 +3,7 @@ sidebar_label: 'Creating Your First Product'
 sidebar_position: 3
 ---
 
-# Creating Your First Product
+## Creating Your First Product
 
 Let's get started! Your first product is ready to be created! To do this, we navigate to the product catalog.
 

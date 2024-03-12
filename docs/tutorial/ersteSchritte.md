@@ -2,7 +2,7 @@
 sidebar_label: 'First Steps'
 sidebar_position: 1
 ---
-# Let's Create Your Shop!
+## Let's Create Your Shop!
 
 After successfully registering and being activated by the Boardfolio team, you can log in to your personal backend of the Boardfolio shop [**here**](https://boardfolio.gg/admin/?target=login).
 

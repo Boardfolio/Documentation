@@ -3,13 +3,13 @@ sidebar_label: 'Weitere Produkt Einstellungen'
 sidebar_position: 1
 ---
 
-# Weitere Produkt Einstellungen
+## Weitere Produkt Einstellungen
 
 Du hast bereits ein oder mehrere Produkte angelegt. Nun hast du die Möglichkeit, diese Produkte zu verfeinern mithilfe von "Varianten", "Ähnlichen Produkten" oder Anhänge von Dateien.
 
 Um all diese Dinge einstellen zu können, gehst du zu deinen Produkten und klickst auf eines deiner bereits bestehenden Produkte, um so zur entsprechenden Produktseite zu gelangen. Der Unterschied zu der normalen Produktseite ist, dass du diesmal noch weitere Reiter oben siehst.
 
-# Ähnliche Produkte
+## Ähnliche Produkte
 
 :::info 
 Bedenke, dass du um diese Funktion zu nutzen, mindestens 2 Produkte angelegt haben musst.
@@ -21,7 +21,7 @@ Du kennst diese Funktion vermutlich von anderen Online Shops: Solltest du dir ei
 
 In diesem Fenster kannst du nun per Checkbox Produkte auswählen, die du in Verbindung mit deinem Produkt bringen möchtest. Möchtest du, dass diese Relation beidseitig besteht, aktivierst du zusätzlich die Checkbox "Gegenseitige Relation".
 
-# Digitale Produkte und Anhänge
+## Digitale Produkte und Anhänge
 
 Um ein digitales Gut zu verkaufen oder Kunden zur Verfügung zu stellen, machen wir Gebrauch von dem "Digitale Anhänge"-Tab. Mit einem Klick auf "Datei hinzufügen" bekommst du die Möglichkeit, diese von deinem lokalen PC oder einer URL hochzuladen.
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Nachdem du dich erfolgreich angemeldet hast und vom Boardfolio-Team freigeschaltet wurdest, kannst du dich [**hier**](https://boardfolio.gg/admin/?target=login) in dein persönliches [**Backend**](https://boardfolio.gg/admin/?target=login) des Boardfolio Shops einloggen.
 
-Herzlichen Glückwunsch! Du bist nun in deinem eigenen Backend gelandet. Um genauer zu sein, ist die Startseite, die du vor dir siehst, dein [**Dashboard**](/documentation/Backend/dashboard). Hier werden wichtige Informationen angezeigt, wie zum Beispiel offene Bestellungen, Umsätze oder Nachrichten (mehr zum Dashboard findest du [hier](/documentation/Backend/dashboard)). Auf der linken Seite siehst du eine Menüleiste, über die du zu den verschiedensten Unterpunkten gelangen kannst. Um die Einrichtung deines Shops abzuschließen, navigieren wir als erstes zum obersten Punkt "Accountdetails".
+Herzlichen Glückwunsch! Du bist nun in deinem eigenen Backend gelandet. Um genauer zu sein, ist die Startseite, die du vor dir siehst, dein [**Dashboard**](/documentation/de/Backend/dashboard). Hier werden wichtige Informationen angezeigt, wie zum Beispiel offene Bestellungen, Umsätze oder Nachrichten (mehr zum Dashboard findest du [hier](/documentation/de/Backend/dashboard)). Auf der linken Seite siehst du eine Menüleiste, über die du zu den verschiedensten Unterpunkten gelangen kannst. Um die Einrichtung deines Shops abzuschließen, navigieren wir als erstes zum obersten Punkt "Accountdetails".
 
 ![NavigationsLeiste](img/NavigationsLeisteFirmendetails.png)
 
