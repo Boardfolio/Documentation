@@ -1,13 +1,14 @@
 ---
-sidebar_label: 'Versand'
+sidebar_label: 'Shipping'
 sidebar_position: 1
 ---
 
-## Versand
+## Shipping
 
-Wow! Du hast eine Bestellung erhalten! Jetzt schnell versenden damit dein Fan sofort loslegen kann. Im linken Menü findest du den Punkt Bestellungen. Dort kannst du auf eine Auftragsnummer klicken um auf die Bestellübersicht zu gelangen.
+Wow! You've received an order! Now, quickly ship it out so your fan can get started right away. In the left menu, you'll find the Orders section. There, you can click on an order number to access the order overview.
 
 ![Bestellübersicht](img/BestellÜbersicht_01.png)
+
 
 
 

@@ -3,18 +3,19 @@ sidebar_position: 1
 slug: /
 ---
 
-## Boardfolio Dokumentation
+## Boardfolio Documentation
 ![test](tutorial/img/Happy.png)
 
-## Der Anfang
+## Getting Started
 
-Willkommen in der Boardfolio Dokumentation. Dies ist der Ort, an dem wir das gesammelte Wissen zur Bedienung unserer Plattform für dich bereitstellen. **Falls du zum ersten Mal auf unserer Plattform bist, fang am besten direkt mit unserem** [**Tutorial**](/documentation/category/tutorial) **an.**
+Welcome to the Boardfolio Documentation. This is the place where we provide all the gathered knowledge about operating our platform for you. **If you're new to our platform, it's best to start directly with our** [**Tutorial**](/documentation/category/tutorial) **.**
 
 ## Discord Server
-Trete unserem Discord-Server bei, um persönliche Unterstützung zu erhalten, die neuesten Updates zu erfahren und dich mit anderen Kreativen zu vernetzen!
+Join our Discord server to get personal assistance, stay updated with the latest updates, and connect with other creators!
 
 ![discord](tutorial/img/DiscordLogo.png)
 
-[Link zu unserem Discord-Server](https://discord.gg/D7hbPJXCtN)
+[Link to our Discord server](https://discord.gg/D7hbPJXCtN)
+
 
 

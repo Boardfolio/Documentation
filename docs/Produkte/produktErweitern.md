@@ -1,46 +1,46 @@
 ---
-sidebar_label: 'Weitere Produkt Einstellungen'
+sidebar_label: 'Additional Product Settings'
 sidebar_position: 1
 ---
 
-## Weitere Produkt Einstellungen
+## Additional Product Settings
 
-Du hast bereits ein oder mehrere Produkte angelegt. Nun hast du die Möglichkeit, diese Produkte zu verfeinern mithilfe von "Varianten", "Ähnlichen Produkten" oder Anhänge von Dateien.
+You have already created one or more products. Now you have the opportunity to refine these products using "Variants," "Related Products," or file attachments.
 
-Um all diese Dinge einstellen zu können, gehst du zu deinen Produkten und klickst auf eines deiner bereits bestehenden Produkte, um so zur entsprechenden Produktseite zu gelangen. Der Unterschied zu der normalen Produktseite ist, dass du diesmal noch weitere Reiter oben siehst.
+To configure all of these things, go to your products and click on one of your existing products to navigate to the corresponding product page. The difference from the normal product page is that this time you'll see additional tabs at the top.
 
-## Ähnliche Produkte
+## Related Products
 
-:::info 
-Bedenke, dass du um diese Funktion zu nutzen, mindestens 2 Produkte angelegt haben musst.
+:::info
+Keep in mind that to use this function, you must have at least 2 products created.
 :::
 
-Du kennst diese Funktion vermutlich von anderen Online Shops: Solltest du dir einen Artikel genauer anschauen, kommen unter diesem Vorschläge von weiteren Artikeln, die in Zusammenhang mit diesem gebracht werden. Dies könnten Erweiterungen des Produkts sein genauso gut aber auch Produkte, die die gleiche Zielgruppe ansprechen.
+You're probably familiar with this function from other online shops: If you take a closer look at a product, you'll find suggestions for other products related to it. These could be product extensions or products targeting the same audience.
 
-![ÄhnlicheProdukte](img/RelatedProducts.png)
+![RelatedProducts](img/RelatedProducts.png)
 
-In diesem Fenster kannst du nun per Checkbox Produkte auswählen, die du in Verbindung mit deinem Produkt bringen möchtest. Möchtest du, dass diese Relation beidseitig besteht, aktivierst du zusätzlich die Checkbox "Gegenseitige Relation".
+In this window, you can now select products via checkboxes that you want to associate with your product. If you want this relationship to be mutual, you also activate the "Mutual Relationship" checkbox.
 
-## Digitale Produkte und Anhänge
+## Digital Products and Attachments
 
-Um ein digitales Gut zu verkaufen oder Kunden zur Verfügung zu stellen, machen wir Gebrauch von dem "Digitale Anhänge"-Tab. Mit einem Klick auf "Datei hinzufügen" bekommst du die Möglichkeit, diese von deinem lokalen PC oder einer URL hochzuladen.
+To sell a digital asset or provide it to customers, we make use of the "Digital Attachments" tab. Clicking on "Add File" gives you the opportunity to upload it from your local PC or a URL.
 
-![DigitalesProdukt](img/DigitalProduct.png)
+![DigitalProduct](img/DigitalProduct.png)
 
-Sobald du eine Datei hochgeladen hast, kannst du diese umbenennen und eine Kurzbeschreibung hinzufügen. Wichtig ist, dass du den Regler auf Kostenpflichtig stellst, sollte es sich um ein Produkt handeln, das du verkaufen möchtest.
+Once you have uploaded a file, you can rename it and add a brief description. It's important to set the slider to "Paid" if it's a product you want to sell.
 
-:::danger Regler auf Kostenpflichtig
-Ist der Regler **nicht** auf "Kostenpflichtig" sondern auf "Kostenlos", **kann jeder Besucher die Datei herunterladen OHNE das Produkt gekauft zu haben.**
+:::danger Set Slider to Paid
+If the slider is **not** set to "Paid" but to "Free," **any visitor can download the file WITHOUT purchasing the product.**
 :::
 
-Wenn du den Regler auf "Kostenlos" stellst, kannst du Vorabinformationen, die man sich ohne Kauf des Produktes ansehen kann, bereitstellen (bspw. eine Leseprobe).
+If you set the slider to "Free," you can provide preliminary information that can be viewed without purchasing the product (for example, a sample chapter).
 
-# Großhandelspreise
+# Wholesale Prices
 
-Solltest du deine Produkte an Händler verkaufen wollen, kannst du für diese Kundengruppe gesonderte Preise anlegen. Diese sind in der Regel 30-40% günstiger. Wie viel du deine Preise reduzierst ist natürlich dir überlassen.
+If you want to sell your products to retailers, you can create special prices for this customer group. These are usually 30-40% cheaper. How much you reduce your prices is up to you.
 
-Im Tab "Großhandelspreise" kannst du eine neue Stufe für dein Produkt erstellen.
+In the "Wholesale Prices" tab, you can create a new tier for your product.
 
 ![Wholesale](img/Wholesaler.png)
 
-Das Erste, was du nun tun musst, ist das Membership auf "Wholesaler" umzustellen! Dann trägst du die Menge und den entsprechenden reduzierten Preis ein. Für ein Produkt kannst du mehrere Stufen anlegen (wie im Bild zu sehen). So ist es möglich, dass du auch einen Mengenrabatt geben kannst, sobald ein Händler beispielsweise 5 Stück auf einmal kauft.
+The first thing you need to do now is to switch the membership to "Wholesaler"! Then enter the quantity and the corresponding reduced price. For a product, you can create multiple tiers (as shown in the image). This way, you can also offer a quantity discount when a retailer buys, for example, 5 pieces at once.
